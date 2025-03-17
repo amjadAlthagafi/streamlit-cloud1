@@ -1,0 +1,8 @@
+pillow
+streamlit==1.30.0
+tensorflow==2.10.1
+numpy==1.23.5
+nltk==3.8.1
+gensim==4.3.2
+scipy
+pandas==1.5.3
